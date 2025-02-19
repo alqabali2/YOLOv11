@@ -152,7 +152,7 @@ python detect.py --source path/to/your/image_or_video
 للاستفسارات أو الملاحظات أو لمزيد من المعلومات، يرجى التواصل عبر:
 
 - **Email | البريد الإلكتروني:** [adel.alqabali@gmail.com](mailto:adel.alqabali@gmail.com)
-- **GitHub:** [@yourusername](https://github.com/yourusername)
+- **GitHub:** [@alqabali2](https://github.com/alqabali2)
 
 ---
 
