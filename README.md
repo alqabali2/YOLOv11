@@ -151,8 +151,8 @@ python detect.py --source path/to/your/image_or_video
 
 للاستفسارات أو الملاحظات أو لمزيد من المعلومات، يرجى التواصل عبر:
 
-- **Email | البريد الإلكتروني:** [your.email@example.com](mailto:your.email@example.com)
-- **GitHub:** [@yourusername](https://github.com/yourusername)
+- **Email | البريد الإلكتروني:** [adel.alqabali@gmail.commailto:adel.alqabali@gmail.com)
+- **GitHub:** [@alqabali2](https://github.com/alqabali2)
 
 ---
 
